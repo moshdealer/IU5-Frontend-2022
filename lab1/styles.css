@@ -1,69 +1,66 @@
-
-
-body{
+body {
     background-color: burlywood;
 }
 
 h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     margin-bottom: 5px;
 }
-h2::before{
+h2::before {
     content: "→";
 }
-h2::after{
+h2::after {
     content: "←";
 }
 
-.img{
-    float : right;
+.img {
+    float: right;
     margin: 0px 100px 5px 0px;
 }
 .inf {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     font-size: 25px;
-    float:"left";
+    float: "left";
 }
-figure{
+figure {
     display: inline;
-    float:right
+    float: right;
 }
-figcaption{
+figcaption {
     display: inline;
-    float : right
+    float: right;
 }
 .sign {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    float:right;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    float: right;
 }
-textarea{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+textarea {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     margin-top: 5px;
-    
 }
 table {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     margin-left: 200px;
     font-size: 12px;
     padding: 3px 3px 3px 3px;
     border: 1px solid black;
- }
- tr:hover {
-    background: goldenrod; 
- }
- th {
+}
+tr:hover {
+    background: goldenrod;
+}
+th {
     border: 1px solid black;
- }
- td {
+}
+td {
     border: 1px solid black;
- }
- #feedback{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     color: #696969;
-     font-size: 1.5em;
- }
- #afterword{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     color: rgb(0, 128, 128);
-     font-size: 5vh;
- }
+}
+#feedback {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: #696969;
+    font-size: 1.5em;
+}
+#afterword {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: rgb(0, 128, 128);
+    font-size: 5vh;
+}
