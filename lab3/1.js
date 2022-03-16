@@ -16,4 +16,5 @@
     newstr = newstr.slice(0, newstr.length-1);
     return newstr;
 }
+
 module.exports = capitalize;
