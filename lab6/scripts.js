@@ -68,5 +68,3 @@ function mouseMov (e){
 }
 
 field.addEventListener ("mousemove", mouseMov);
-
-
