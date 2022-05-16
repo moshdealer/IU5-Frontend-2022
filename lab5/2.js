@@ -1,3 +1,4 @@
+
 /**
  * Напишите функцию curry(f),
  * входные данные - функция
@@ -12,7 +13,7 @@
  * console.log(curry(add)(1)(2, 3)); //6
  * console.log(curry(add)(1, 2, 3)); //6
  */
-function curry(f) {
+ function curry(f) {
     //code here
 }
 

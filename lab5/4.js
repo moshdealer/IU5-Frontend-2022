@@ -13,7 +13,7 @@
  * memozedAdd(2) -> {cache: true, result: 4}
  */
 
-function memoize(func) {
+ function memoize(func) {
     //code here
 }
 
